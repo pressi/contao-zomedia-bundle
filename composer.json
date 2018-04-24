@@ -1,6 +1,6 @@
 {
     "name": "2do/contao-zomedia-bundle",
-    "type": "symfony-bundle",
+    "type": "contao-bundle",
     "description": "Contao 4 Zomedia Bundle",
     "license": "LGPL-3.0-or-later",
     "authors": [
